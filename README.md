@@ -1,6 +1,6 @@
 # Reproduction package
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24211936.svg)](https://doi.org/10.5281/zenodo.24211936)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24211935.svg)](https://doi.org/10.5281/zenodo.24211935)
 
 Code and logs for the paper **"When the Packing Fails Silently: Aggregate Binding and Packing Robustness in Multi-Type Smart-Grid Data Aggregation"**.
 
